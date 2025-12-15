@@ -1,0 +1,5 @@
+{
+  "name": "Crystal Destiny (晶运)",
+  "description": "基于八字五行理论的智能水晶推荐系统。通过分析用户的出生信息，提供个性化的五行平衡方案与水晶配饰建议。",
+  "requestFramePermissions": []
+}
