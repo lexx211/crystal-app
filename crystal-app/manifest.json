@@ -1,0 +1,21 @@
+{
+  "short_name": "晶运",
+  "name": "Crystal Destiny 五行水晶",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=%E6%99%B6&background=9333ea&color=ffffff&size=192&rounded=true&length=1&font-size=0.5",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=%E6%99%B6&background=9333ea&color=ffffff&size=512&rounded=true&length=1&font-size=0.5",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait"
+}
